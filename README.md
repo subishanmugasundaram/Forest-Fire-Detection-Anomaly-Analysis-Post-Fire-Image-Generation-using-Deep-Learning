@@ -1,0 +1,2 @@
+# Forest-Fire-Detection-Anomaly-Analysis-Post-Fire-Image-Generation-using-Deep-Learning
+This project presents an end-to-end AI-based system for forest fire monitoring by integrating three different deep learning technologies into a single Streamlit web application. The system focuses on early fire anomaly detection, fire/smoke classification, and post-fire impact visualization,using satellite data and image-based deep learning models.
